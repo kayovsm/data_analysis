@@ -1,0 +1,17 @@
+male.player,female.player,year,stat,amount
+A,E,1,points,14
+A,E,1,assists,6
+A,E,2,points,18
+A,E,2,assists,7
+B,F,1,points,22
+B,F,1,assists,9
+B,F,2,points,38
+B,F,2,assists,4
+C,G,1,points,16
+C,G,1,assists,5
+C,G,2,points,21
+C,G,2,assists,6
+D,H,1,points,20
+D,H,1,assists,5
+D,H,2,points,21
+D,H,2,assists,8
